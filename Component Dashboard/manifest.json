@@ -1,0 +1,7 @@
+{
+  "name": "Component Dashboard",
+  "id": "998673670734622117",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
